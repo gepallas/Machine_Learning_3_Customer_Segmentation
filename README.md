@@ -29,6 +29,24 @@ The principal component anlysis (PCA) shows that 25 principal components (out of
 The most important features of the general population for the first 3 principal components have been identified and discussed.
 Clustering has been applied to the general population and the customer data. 8 clusters have been selected to obtain the cluster predictions. Results of the clustering are used to identify the target audience of the company.
 
-***Sreenshots from the analysis***
+***Sreenshots from the analysis:***
+
+*Exploring the ratio of variance explained by each principal component as well as the cumulative variance explained:*
+
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+</p>
 
 
+*Investigating the change in within-cluster distance across number of clusters:*
+
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+</p>
+
+
+*Comparing the proportion of data in each cluster for the customer data to the proportion of data in each cluster for the general population:*
+
+<p align="center">
+  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+</p>
