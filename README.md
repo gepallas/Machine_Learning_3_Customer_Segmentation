@@ -34,19 +34,19 @@ Clustering has been applied to the general population and the customer data. 8 c
 *Exploring the ratio of variance explained by each principal component as well as the cumulative variance explained:*
 
 <p align="center">
-  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+  <img src= "https://github.com/gepallas/Machine_Learning_3_Customer_Segmentation/blob/master/img1_explained_variance_per_component.png?raw=true" />
 </p>
 
 
 *Investigating the change in within-cluster distance across number of clusters:*
 
 <p align="center">
-  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+  <img src= "https://github.com/gepallas/Machine_Learning_3_Customer_Segmentation/blob/master/img2_avg_distance_to_cluster_center.png?raw=true" />
 </p>
 
 
 *Comparing the proportion of data in each cluster for the customer data to the proportion of data in each cluster for the general population:*
 
 <p align="center">
-  <img src= "https://github.com/gepallas/Machine_Learning_2_Image_Classifier/blob/master/rose_image_prediction.png?raw=true" />
+  <img src= "https://github.com/gepallas/Machine_Learning_3_Customer_Segmentation/blob/master/img3_data_distr_per_cluster.png?raw=true" />
 </p>
