@@ -2,7 +2,7 @@
 This project has been completed as part of the [Udacity's Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229) requirements.
 
 ## Overview
-In this project real-life data are used. These are provided from Udacity's Bertelsmann partners AZ Direct and Arvato Financial Solutions.
+In this project **real-life data** are used. These are provided from Udacity's Bertelsmann partners *AZ Direct* and *Arvato Financial Solutions*.
 Two datasets are used:
 - Dataset that contains demographic information about the people of Germany.
 - A sedond dataset with that same information for customers of a mail-order sales company in Germany.
